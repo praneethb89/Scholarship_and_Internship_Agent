@@ -1,4 +1,8 @@
-# 🚀 AI Opportunity Agent
+# Scholarship & Internship AI Agent 🎓
+
+🚀 **Live Demo:** [Click here to view the live app!](https://scholarship-and-internship-agent.vercel.app/)
+
+---
 
 An intelligent, full-stack platform designed to autonomously match students and professionals with highly relevant scholarships, internships, and fellowships using Natural Language Processing (NLP) and a custom matching algorithm.
 
